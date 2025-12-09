@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm Uduak, an upcoming Designer, Programmer, and Developer based in Nigeria. 
- I consider myself a self-improver. So I tend to find myself learning whatever catches my interest and possibly tinkering with my newfound skills through projects. So if you see a lot of weird repos, you can get why...
- I looove playing games. and not mainstream or AAA games like COD and the likes. I'm more into chill games, nurture games, horror games, visual novels, indie games I found on itch. a bunch of stuff. Notable games are Stardew Valley, Far Cry, Minecraft, FNAF, Danganronpa, Paranormasight, and my ever-loving [osu]!.
+I'm Uduak, an upcoming Designer, Programmer, and Developer based in Nigeria. 
+ 
+I consider myself a self-improver. So I tend to find myself learning whatever catches my interest and possibly tinkering with my newfound skills through projects. So if you see a lot of weird repos, you can get why...
+ 
+I looove playing games. and not mainstream or AAA games like COD and the likes. I'm more into chill games, nurture games, horror games, visual novels, indie games I found on itch. a bunch of stuff. 
+Notable games are <i><b>Stardew Valley</b>, <b>Far Cry</b>, <b>Minecraft, FNAF, Danganronpa, Paranormasight</b></i>, and my ever-loving <i><b>[osu!](https://osu.ppy.sh/users/19012724)</b></i>.
+
 I'm trying to build my expertise on development, and so far I'm into Godot for game dev, Flutter for app dev, and Canva for designer dev (lol, not a word, I know)
+
 For now this readme is just random stuff, but over time, hopefully, it'll become more professional when I'm finally part of the working class.
